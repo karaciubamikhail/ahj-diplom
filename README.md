@@ -1,6 +1,4 @@
-# **AHJ-Diploma: Chaos Organizer**
-[![Build status](https://ci.appveyor.com/api/projects/status/cl0d8fjy6wd3np4b/branch/main?svg=true)](https://ci.appveyor.com/project/TanyaVoz/diploma-chaos-organizer/branch/main)
-https://diploma-chaos-organizer-hohl0t5e1-tanyavoz.vercel.app
+
 ## **Обязательные для реализации функции**
 1. **Ленивая подгрузка: сначала подгружаются последние 10 сообщений, при прокрутке вверх подгружаются следующие 10 и т.д.**
 ![Images](./public/1.png)
